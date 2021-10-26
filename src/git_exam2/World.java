@@ -14,3 +14,4 @@ public class World {
 			System.out.println(sum(i));
 	}
 }
+
